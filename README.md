@@ -20,7 +20,7 @@ Ceci est un site dynamique qui comprend mon top 5 des actrices de télénovelas.
 
 9-Publier le site
 
-## Pré-requis
+### Pré-requis
 -Un outil de maquettage de sites web
 
 -Un éditeur de texte
@@ -34,7 +34,7 @@ Si vous souhaitez voir le site en ligne, sautez cette étape.
 
 Sinon, téléchargez le projet via GitHub ou en ligne de commande: git clone https://github.com/drucimimi/top-actrices.git
 
-### Démarrage
+## Démarrage
 Pour lancer le projet en ligne, tapez l'url suivante dans votre navigateur web : https://drucimimi.github.io/top-actrices
 
 Pour lancer le projet en local, lancer le fichier index.html avec votre navigateur web.
