@@ -40,7 +40,7 @@ Pour lancer le projet en ligne, tapez l'url suivante dans votre navigateur web :
 Pour lancer le projet en local, lancer le fichier index.html avec votre navigateur web.
 
 ## Fabriqué avec
-Atom - éditeur de texte
+[Atom](https://atom.io) - éditeur de texte
 
 HTML5/CSS3
 
