@@ -4,7 +4,7 @@ Ceci est un site dynamique qui comprend mon top 5 des actrices de télénovelas.
 ## Pour commencer
 1-Installer l'éditeur de texte choisi
 
-2-Installer l'outil de maquettaque du site choisi
+2-Installer l'outil de maquettage du site choisi
 
 3-Choisir un hébergeur de sites web gratuit, sécurisé et sans pub
 
