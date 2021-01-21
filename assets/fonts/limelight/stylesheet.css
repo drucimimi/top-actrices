@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Limelight';
+    src: url('Limelight-Regular.eot');
+    src: local('Limelight Regular'), local('Limelight-Regular'),
+        url('Limelight-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Limelight-Regular.woff2') format('woff2'),
+        url('Limelight-Regular.woff') format('woff'),
+        url('Limelight-Regular.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
