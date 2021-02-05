@@ -47,9 +47,9 @@ HTML5/CSS3
 JavaScript/Jquery
 
 ## Versions
-Dernière version stable : 1.0
+Dernière version stable : 1.0.1
 
-Dernière version : 1.0
+Dernière version : 1.0.1
 
 Liste des versions : [Cliquer pour afficher](https://github.com/drucimimi/top-actrices/tags)
 
